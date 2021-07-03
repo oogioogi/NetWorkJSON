@@ -13,6 +13,7 @@
 		862D9E282690628F00AD105E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862D9E272690628F00AD105E /* Assets.xcassets */; };
 		862D9E2B2690628F00AD105E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862D9E2A2690628F00AD105E /* Preview Assets.xcassets */; };
 		862D9E2E2690628F00AD105E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 862D9E2C2690628F00AD105E /* LaunchScreen.storyboard */; };
+		862D9E372690637700AD105E /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862D9E362690637700AD105E /* WebService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		862D9E2A2690628F00AD105E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		862D9E2D2690628F00AD105E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		862D9E2F2690628F00AD105E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		862D9E362690637700AD105E /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				862D9E212690628E00AD105E /* AppDelegate.swift */,
 				862D9E232690628E00AD105E /* SceneDelegate.swift */,
 				862D9E252690628E00AD105E /* ContentView.swift */,
+				862D9E362690637700AD105E /* WebService.swift */,
 				862D9E272690628F00AD105E /* Assets.xcassets */,
 				862D9E2C2690628F00AD105E /* LaunchScreen.storyboard */,
 				862D9E2F2690628F00AD105E /* Info.plist */,
@@ -147,6 +150,7 @@
 			files = (
 				862D9E222690628E00AD105E /* AppDelegate.swift in Sources */,
 				862D9E242690628E00AD105E /* SceneDelegate.swift in Sources */,
+				862D9E372690637700AD105E /* WebService.swift in Sources */,
 				862D9E262690628E00AD105E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
